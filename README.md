@@ -5,7 +5,7 @@ Student ID : 100048707
 sum of digits = 27 --> Odd number
 Assigned game: Wrecking Crew
 
-Note: 
+Note: Was getting build errors, no executable
 
 Singleton Pattern (Damage manager)
 Not quite sure what a damage manager is even supposed to do for Wrecking Crew, so I am assuming it is supposed to keep track of how much damage the player done.
